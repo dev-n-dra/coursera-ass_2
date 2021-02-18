@@ -1,0 +1,67 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: rgb(36, 206, 169);
+  font-family: Arial, Helvetica, sans-serif;
+}
+#header-nav {
+  min-height: 100px;
+  background-color: rgb(185, 255, 220);
+  border-radius: 0;
+  border-bottom: 2px solid black;
+}
+.navbar-brand {
+  text-shadow: 1px 1px 2px #222;
+}
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list li {
+  border-top: 2px solid rgb(0, 0, 95);
+}
+#nav-list a {
+  color: rgb(12, 143, 167);
+  text-align: center;
+}
+#nav-list a:hover {
+  color: rgb(7, 78, 90);
+  text-align: center;
+}
+.navbar-default .navbar-toggle,
+.icon-bar {
+  border: 1px solid #337ab7;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin: -15px 15px 15px 0;
+}
+.container h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+.box {
+  background: rgb(145, 143, 172);
+  margin: 0 auto 20px;
+}
+#chicken {
+  margin-right: -10px;
+}
+#beef {
+  margin-right: -10px;
+}
+.box .title {
+  text-align: center;
+  font-size: 1.25em;
+  padding: 5px 0 15px 0;
+}
+.container p a {
+  color: black;
+  font-size: 0.9em;
+}
+.container p a:hover {
+  color: rgb(34, 31, 31);
+  text-decoration: none;
+}
